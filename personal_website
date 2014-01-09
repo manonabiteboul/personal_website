@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Manon Abiteboul</title>
+    </head>
+ 
+    <body>
+		<div id = "bloc_page">
+		<header>
+			<div id="titre_principale">
+				<img src="manon.jpg" alt="Manon" id="me" />
+				<div id = "langue">
+					<a href="fr.html"> <img src="france.jpg" alt="fr" id = "fr" /> </a>
+					<a href = "personal_website.html"> <img src="uk.jpg" alt="uk" id = "uk" /> </a>
+				</div>
+				
+			<h1>Manon Abiteboul </h1>
+			</div>
+			
+
+		</header>
+	
+		<nav>
+			<ul>
+				<li> <a href="CV_Manon_ABITEBOUL_eng.pdf"> CV </a> </li>
+				<li> <a href="http://www3.imperial.ac.uk/" target="_blank"> Imperial College </a> </li>
+				<li> <a href="mailto:manon.abiteboul@gmail.com"> Contact me </a> </li>
+			</ul>
+		</nav>
+		
+		<section>
+		<h2> Research Interests </h2>
+			<ul>
+					<li> Representation theory </li>
+					<li> Algebraic groups  </li>
+					<li> G-complete reducibility </li>
+			</ul>
+		<h2> Curriculum Vitae </h2>
+			<ul>
+				<li> PhD student at Imperial College London under the supervision of <a href = "http://www2.imperial.ac.uk/~mwl/"  target="_blank"> Prof. Martin Liebeck </a> </li>
+				<li> Graduate Teaching Assistant for courses in Mathematics and Computing</li>
+				<li> Master's Degree in Mathematics, Cambridge University, 2011 </li>
+				<li> Bachelor's Degree in Mathematics, Imperial College London, 2010 </li>
+				<li> Good knowledge of C, Java, Python and Octave </li>
+			</ul>
+			Extended version in <a href="CV_Manon_ABITEBOUL_eng.pdf"> PDF </a>
+		<h2> Contact </h2>
+			Email: manon.abiteboul@gmail.com </br>
+			Maths Department, Manon Abiteboul, Phd student,</br>
+			Huxley Building Reception, 180 Queens Gate, London SW7 2AZ.
+		</section>
+	
+	</body>
+	<footer>
+		<img src = "skyline.jpg" alt ="skyline" id = "skyline"/>
+	</footer>
+	</div>
+</html>
